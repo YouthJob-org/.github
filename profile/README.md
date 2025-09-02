@@ -1,7 +1,7 @@
 <br>
 
 <div align="center">
- 	<img width="399" height="197" alt="logo1" src="https://github.com/user-attachments/assets/bb46b378-475a-4821-a7b7-35c75d268560" />
+ 	<img width="304" height="88" alt="image" src="https://github.com/user-attachments/assets/78b26a57-7078-457d-84dc-047a3bc0d9f8" />
 </div>
 
 <h2 align="center">청년취업지원플랫폼</h2>
