@@ -1,7 +1,7 @@
 <br>
 
 <div align="center">
- 	YouthJob
+ 	<img width="399" height="197" alt="logo1" src="https://github.com/user-attachments/assets/bb46b378-475a-4821-a7b7-35c75d268560" />
 </div>
 
 <h2 align="center">청년취업지원플랫폼</h2>
