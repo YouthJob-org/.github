@@ -47,10 +47,10 @@
       </a>
     </td>
       <td align="center">
-      <a href="https://github.com/kwonyuujin">
-        <img src="https://github.com/kwonyuujin.png?size=140" width="100" height="100" alt="권유진"/>
+      <a href="https://github.com/yangwoohyeon">
+        <img src="https://github.com/yangwoohyeon.png?size=140" width="100" height="100" alt="양우현"/>
         <br/>
-        <sub><b>권유진</b></sub>
+        <sub><b>양우현</b></sub>
   </tr>
 </table>
 
@@ -67,10 +67,10 @@
       </a>
     </td>
       <td align="center">
-      <a href="https://github.com/kwonyuujin">
-        <img src="https://github.com/kwonyuujin.png?size=140" width="100" height="100" alt="권유진"/>
+      <a href="https://github.com/yangwoohyeon">
+        <img src="https://github.com/yangwoohyeon.png?size=140" width="100" height="100" alt="양우현"/>
         <br/>
-        <sub><b>권유진</b></sub>
+        <sub><b>양우현</b></sub>
   </tr>
 </table>
 
