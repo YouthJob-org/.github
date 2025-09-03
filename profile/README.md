@@ -78,7 +78,7 @@
 
 ---
 
-### Backend
+### Backend & Frontend
 <table>
   <tr>
       <td align="center">
@@ -98,23 +98,5 @@
 
 ---
 
-### Frontend
-<table>
-  <tr>
-      <td align="center">
-      <a href="https://github.com/kwonyuujin">
-        <img src="https://github.com/kwonyuujin.png?size=140" width="100" height="100" alt="권유진"/>
-        <br/>
-        <sub><b>권유진</b></sub>
-      </a>
-    </td>
-      <td align="center">
-      <a href="https://github.com/yangwoohyeon">
-        <img src="https://github.com/yangwoohyeon.png?size=140" width="100" height="100" alt="양우현"/>
-        <br/>
-        <sub><b>양우현</b></sub>
-  </tr>
-</table>
 
-<br>
 
