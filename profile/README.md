@@ -68,7 +68,8 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/">
+      <a href="https://github.com/edammnnn">
+        <img src="https://github.com/edammnnn.png?size=140" width="100" height="100" alt="양우현"/>
         <br/>
         <sub><b>정이담</b></sub>
       </a>
