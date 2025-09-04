@@ -1,7 +1,7 @@
 <br>
 
 <div align="center">
- 	<img src="https://github.com/user-attachments/assets/78b26a57-7078-457d-84dc-047a3bc0d9f8" alt="YouthJob Banner" width="500"/>
+ <img width="562" height="124" alt="YouthJob Banner" src="https://github.com/user-attachments/assets/b56f88a4-c0b4-40d7-babc-a7dd3c19eda7" />
 </div>
 
 <h2 align="center">청년 취업 지원 플랫폼, YouthJob(유스잡)</h2>
@@ -13,7 +13,7 @@
 
 ## ✔️ 로고 의미
 <div>
- 	<img width="50" alt="YouthJob 로고" src="https://github.com/user-attachments/assets/fc2d25ef-6496-415e-80f4-b8afb95f393d" />
+ 	<img width="118" height="119" alt="image" src="https://github.com/user-attachments/assets/3d83525c-f918-4be2-8b47-9678ef56e27e" />
   청년(사람)이 중심이 되고, 따뜻한 지원(하트)를 받으며, 미래로 뻗어나가는 희망을 상징하는 심볼
 </div>
 
