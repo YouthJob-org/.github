@@ -13,7 +13,7 @@
 
 ## ✔️ 로고 의미
 <div>
- 	<img width="118" height="119" alt="image" src="https://github.com/user-attachments/assets/3d83525c-f918-4be2-8b47-9678ef56e27e" />
+ <img width="59" height="60" alt="logo" src="https://github.com/user-attachments/assets/b5b481bb-bf28-4a28-a292-c9b68e973b56" />
   청년(사람)이 중심이 되고, 따뜻한 지원(하트)를 받으며, 미래로 뻗어나가는 희망을 상징하는 심볼
 </div>
 
