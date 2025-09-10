@@ -52,7 +52,7 @@
 
 ## 🛠️ 기술 스택
 - **Backend**: Spring Boot, JPA, MySQL  
-- **Frontend**: React, TypeScript, TailwindCSS  
+- **Frontend**: React, TypeScript
 - **Infra/DevOps**: AWS EC2, GitHub Actions, Docker  
 - **API 연동**: 국민내일배움카드 API(고용24), 취업역량강화 프로그램 API(고용24), 청년정책 API(온통청년)
 
