@@ -58,6 +58,13 @@
 
 <br>
 
+## 🧱 서버 아키텍쳐
+
+<img width="1302" height="599" alt="서버 아키텍쳐 다이어그램" src="https://github.com/user-attachments/assets/6bee7496-6fea-4911-9607-4727c3f295cd" />
+
+
+<br>
+
 ## 🧑‍💻 팀원 소개
 
 ### 기획
