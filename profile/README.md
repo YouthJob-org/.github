@@ -60,7 +60,8 @@
 
 ## 🧱 서버 아키텍쳐
 
-<img width="1302" height="599" alt="서버 아키텍쳐 다이어그램" src="https://github.com/user-attachments/assets/6bee7496-6fea-4911-9607-4727c3f295cd" />
+<img width="1019" height="484" alt="서버 아키텍쳐" src="https://github.com/user-attachments/assets/c11637b5-141b-4742-9be3-e0051dabb6b0" />
+
 
 
 <br>
